@@ -1,2 +1,3 @@
 # HR-Data-Attrition-rate-prediction
-Problem Statement: To build the machine learning model using various algorithms to handle the attrition rate
+Problem Statement: To build the machine learning model using various algorithms to handle the attrition rate.
+Key role: Analyzing data collected from resources to evaluate its quality. Performing EDA, feature engineering, and preprocessing operations. Training ML model using ML algorithms-Logistic Regression, KNN, Decision Tree, Naive Bayes, SVM, ANN with the best parameter possible. After testing the model, retrain the model if the results are not as expected. Clustering of the data in the different clusters using K-means, Hierarchical clustering algorithm.
